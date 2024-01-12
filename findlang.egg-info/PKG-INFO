@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: findlang
+Version: 1.0.0
+Summary: findlang is a standalone Language Identification based on (LangID) tool.
+Home-page: https://github.com/deepfile/findlang
+Author: Bayangmbe Mounmo
+Author-email: baangp0@gmail.com
+License: MIT
+Keywords: language detection
+
+      findlang is a standalone Language Identification based on (LangID) tool. It is a Python 3 port of the original langid.py by Marco Lui and Tim Baldwin.

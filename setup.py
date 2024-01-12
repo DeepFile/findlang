@@ -12,7 +12,7 @@ setup(name='findlang',
       classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
       keywords='language detection',
       author='Bayangmbe Mounmo',
-      author_email='baangp0@gmail.com',
+      author_email='bayangp0@gmail.com',
       url='https://github.com/deepfile/findlang',
       license='MIT',
       packages=find_packages(exclude=['ez_setup', 'tests']),

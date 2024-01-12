@@ -1,0 +1,12 @@
+setup.py
+findlang/__init__.py
+findlang/findlang.py
+findlang/test.py
+findlang/weight.py
+findlang.egg-info/PKG-INFO
+findlang.egg-info/SOURCES.txt
+findlang.egg-info/dependency_links.txt
+findlang.egg-info/entry_points.txt
+findlang.egg-info/not-zip-safe
+findlang.egg-info/requires.txt
+findlang.egg-info/top_level.txt
