@@ -12,12 +12,6 @@ Note:  (PyOxidizer is a utility that can turn Python code into a single executab
 - Simplified and clean Python 3 implementation.
 - Suitable for dynamic compilation and integration into standalone applications.
 
-## Installation
-
-```bash
-pip install findlang
-```
-
 ## Usage
 
 The simplest way to use ``findlang`` is as a command-line tool, and you can 
